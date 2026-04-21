@@ -9,7 +9,7 @@ Hi there! My name is Sergio Armando Matamoros Nuñez, and I am currently a Compu
 
 During my academic journey, I have worked on projects that integrate innovation and learning, such as intelligent chatbots, interactive platforms to promote reading among children, and simulations of physical processes that make studying physics more engaging. These experiences have not only strengthened my technical skills but also allowed me to grow as a communicator, a problem solver, and a leader in collaborative projects.
 
-At the moment, I am completing an internship at Aceitera El Real, where I am applying my knowledge in a professional environment. This role is giving me valuable experience in how technology can be applied to optimize workflows, improve efficiency, and support decision-making in a business context.
+I am complete an internship at Aceitera El Real, where I am applying my knowledge in a professional environment. This role is giving me valuable experience in how technology can be applied to optimize workflows, improve efficiency, and support decision-making in a business context.
 
 I see myself as a proactive and adaptable person who is always eager to learn new technologies and take on new challenges. My long-term goal is to continue developing innovative solutions that combine software engineering, artificial intelligence, and education, contributing to both technological progress and accessible knowledge.  
   
