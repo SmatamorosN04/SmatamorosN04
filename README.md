@@ -97,8 +97,8 @@ I see myself as a proactive and adaptable developer who is always eager to learn
       </td>
       <td>
         <a href="https://github.com/SmatamorosN04/E_Commerce">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmatamorosN04&repo=E_Commerce&theme=tokyonight&show_owner=true" alt="Proyecto Destacado 2" />
-        </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmatamorosN04&repo=E_Commerce&theme=tokyonight&show_owner=true" alt="Proyecto Destacado 2" />
+</a>
       </td>
     </tr>
   </table>
