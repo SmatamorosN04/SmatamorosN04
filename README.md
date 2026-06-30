@@ -64,17 +64,45 @@ I see myself as a proactive and adaptable developer who is always eager to learn
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmatamorosN04&hide_border=true&layout=compact&theme=dark" alt="Top Languages" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SmatamorosN04&show_icons=true&theme=dark&locales=es&hide_border=true" alt="GitHub Stats" height="170" />
+  <table align="center" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api?username=SmatamorosN04&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=default_repocard" alt="Sergio's GitHub Stats" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SmatamorosN04&layout=donut-vertical&langs_count=9&theme=default_repocard" alt="Sergio's Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=SmatamorosN04&theme=default&hide_border=true" alt="Sergio's GitHub Streak" width="100%" style="max-width: 800px;" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-## ✍️ Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-<!-- BLOG-POST-LIST:END -->
+## 📌 Featured Repositories
+
+<p align="center">
+  <table align="center" border="0" cellpadding="5" cellspacing="0">
+    <tr>
+      <td>
+        <a href="https://github.com/SmatamorosN04/scheduling_APP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmatamorosN04&repo=scheduling_APP&theme=tokyonight&show_owner=true" alt="Proyecto Destacado 1" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SmatamorosN04/E_Commerce">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmatamorosN04&repo=E_Commerce&theme=tokyonight&show_owner=true" alt="Proyecto Destacado 2" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
